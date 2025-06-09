@@ -9,4 +9,8 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Rishi-scse/Leet-Code/tree/master/0152-maximum-product-subarray) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/Rishi-scse/Leet-Code/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->

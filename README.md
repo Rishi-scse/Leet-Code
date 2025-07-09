@@ -7,6 +7,7 @@
 | [0046-permutations](https://github.com/Rishi-scse/Leet-Code/tree/master/0046-permutations) |
 | [0152-maximum-product-subarray](https://github.com/Rishi-scse/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Rishi-scse/Leet-Code/tree/master/0322-coin-change) |
+| [0560-subarray-sum-equals-k](https://github.com/Rishi-scse/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Rishi-scse/Leet-Code/tree/master/0682-baseball-game) |
 ## Dynamic Programming
 |  |
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Rishi-scse/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Rishi-scse/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Rishi-scse/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@
 | [0046-permutations](https://github.com/Rishi-scse/Leet-Code/tree/master/0046-permutations) |
 | [0152-maximum-product-subarray](https://github.com/Rishi-scse/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Rishi-scse/Leet-Code/tree/master/0322-coin-change) |
+| [0455-assign-cookies](https://github.com/Rishi-scse/Leet-Code/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishi-scse/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Rishi-scse/Leet-Code/tree/master/0682-baseball-game) |
 ## Dynamic Programming
@@ -72,4 +73,16 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rishi-scse/Leet-Code/tree/master/0803-cheapest-flights-within-k-stops) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Rishi-scse/Leet-Code/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Rishi-scse/Leet-Code/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Rishi-scse/Leet-Code/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

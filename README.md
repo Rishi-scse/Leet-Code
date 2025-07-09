@@ -13,6 +13,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Rishi-scse/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Rishi-scse/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Rishi-scse/Leet-Code/tree/master/0322-coin-change) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rishi-scse/Leet-Code/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -85,4 +86,12 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Rishi-scse/Leet-Code/tree/master/0455-assign-cookies) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rishi-scse/Leet-Code/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rishi-scse/Leet-Code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

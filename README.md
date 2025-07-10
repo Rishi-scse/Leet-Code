@@ -10,6 +10,7 @@
 | [0455-assign-cookies](https://github.com/Rishi-scse/Leet-Code/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishi-scse/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Rishi-scse/Leet-Code/tree/master/0682-baseball-game) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Rishi-scse/Leet-Code/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0152-maximum-product-subarray](https://github.com/Rishi-scse/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Rishi-scse/Leet-Code/tree/master/0322-coin-change) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rishi-scse/Leet-Code/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Rishi-scse/Leet-Code/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## String
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Rishi-scse/Leet-Code/tree/master/0455-assign-cookies) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Rishi-scse/Leet-Code/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Math
 |  |
 | ------- |

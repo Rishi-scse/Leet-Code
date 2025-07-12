@@ -24,6 +24,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rishi-scse/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/Rishi-scse/Leet-Code/tree/master/0038-count-and-say) |
 ## Backtracking
 |  |
@@ -61,6 +62,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rishi-scse/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishi-scse/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -99,4 +101,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rishi-scse/Leet-Code/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rishi-scse/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

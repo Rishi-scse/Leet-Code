@@ -6,6 +6,7 @@
 | ------- |
 | [0046-permutations](https://github.com/Rishi-scse/Leet-Code/tree/master/0046-permutations) |
 | [0152-maximum-product-subarray](https://github.com/Rishi-scse/Leet-Code/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Rishi-scse/Leet-Code/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Rishi-scse/Leet-Code/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Rishi-scse/Leet-Code/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Rishi-scse/Leet-Code/tree/master/0455-assign-cookies) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishi-scse/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Rishi-scse/Leet-Code/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishi-scse/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -91,6 +93,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rishi-scse/Leet-Code/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/Rishi-scse/Leet-Code/tree/master/0455-assign-cookies) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Rishi-scse/Leet-Code/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Math
@@ -105,4 +108,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishi-scse/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rishi-scse/Leet-Code/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rishi-scse/Leet-Code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
